@@ -7,7 +7,7 @@ Tic-Tac-Toe is the classic two player game where the winner is determined by who
 Initial State
 ![](https://github.com/chrisliew/Tic-Tac-Toe/blob/master/pics/initial-state.png)
 Winner!
-![](https://github.com/chrisliew/Chatty-App/blob/master/pics/winner.png)
+![](https://github.com/chrisliew/tic-tac-toe/blob/master/pics/winner.png)
 
 
 ### Usage
